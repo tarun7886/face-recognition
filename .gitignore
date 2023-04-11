@@ -1,0 +1,6 @@
+input_images/*
+!input_images/.gitkeep
+reference_image/*
+!reference_image/.gitkeep
+output_images/*
+!output_images/.gitkeep
